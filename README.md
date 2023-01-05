@@ -1,1 +1,1 @@
-Exchange rate against the EUR
+Exchange rate without RUB
