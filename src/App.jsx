@@ -22,6 +22,9 @@ export default function App() {
       });
   }, []);
 
+  // Adding RUB
+  rates.RUB = 1;
+
   const onChangeFromPrice = (value) => {
     const price = value / rates[fromCurrency];
     const result = price * rates[toCurrency];
