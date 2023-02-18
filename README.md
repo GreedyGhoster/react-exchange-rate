@@ -1,1 +1,1 @@
-Exchange rate without RUB
+Exchange rate 
